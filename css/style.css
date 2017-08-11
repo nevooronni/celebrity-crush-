@@ -73,6 +73,7 @@
 #orderform {
   background-color: #FFFFFF;
   position: absolute;
+  padding-top: 40px;
   top: 140px;
   left: 740px;
   height: 500px;
@@ -86,8 +87,11 @@
 
 #order {
   color: #FF5C62;
-  margin-top: 60px;
-  margin-left: 100px;
+  font-weight: bold;
+  font-size: 35px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 50px;
 }
 
 .field {
